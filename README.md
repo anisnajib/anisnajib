@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/anis-najib-8a10b1149" target="_blank">      
     <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/anis-najib-8a10b1149" target="_blank">      
+  <a href="https://instagram.com/ansnhd?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D" target="_blank">      
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
