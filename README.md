@@ -7,7 +7,7 @@
   	</hp>
 <p>  <img src="https://komarev.com/ghpvc/?username=anisnajib&color=blueviolet" alt="Anis Najib"/></p>
 
-- 🔭  I’m currently working at [Smartfren Telecomunication](https://https://www.smartfren.com/).
+- 🔭  I’m currently working at [Smartfren Telecomunication](https://www.smartfren.com/).
 - 👯  I’m looking to collaborate on open-source projects or freelance work.
 - 😄  Pronouns: He/His
 
